@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_11">7</string>
+    <string name="bt_12">8</string>
+    <string name="bt_13">9</string>
+    <string name="bt_14">÷</string>
+    <string name="bt_21">4</string>
+    <string name="bt_22">5</string>
+    <string name="bt_23">6</string>
+    <string name="bt_24">×</string>
+    <string name="bt_31">1</string>
+    <string name="bt_32">2</string>
+    <string name="bt_33">3</string>
+    <string name="bt_34">－</string>
+    <string name="bt_41">.</string>
+    <string name="bt_42">0</string>
+    <string name="bt_43">=</string>
+    <string name="bt_44">+</string>
+    <string name="bt_01">F</string>
+    <string name="bt_02">D</string>
+    <string name="bt_03">C</string>
+</resources>
